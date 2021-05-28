@@ -15,3 +15,16 @@
 <i><b> Hello I && B </b></i>
 
 ***Hello Italic and bold***
+
+
+ `inline`
+ 
+ `
+ not inline
+ `
+ 
+ ```inline```
+ 
+ ```
+ not inline
+ ```
