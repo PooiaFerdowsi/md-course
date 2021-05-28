@@ -18,14 +18,21 @@
 
 `inline code`
 
-```bash
+```sh
 if [ ! -f $name ]; then
   echo "${name} does not exits"
 fi
 ```
 
-```python
+```py
 import sys
 ```
 
-
+```cpp
+class Person
+{
+public:
+protected:
+private:
+};
+```
