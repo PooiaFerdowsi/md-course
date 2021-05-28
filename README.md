@@ -28,11 +28,15 @@ fi
 import sys
 ```
 
-```cpp
+```c++
 class Person
 {
 public:
 protected:
 private:
 };
+```
+
+```rb
+puts "Hello"
 ```
