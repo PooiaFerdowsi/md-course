@@ -40,3 +40,6 @@ private:
 ```rb
 puts "Hello"
 ```
+
+
+# [Do You Want to read more about lexer](lexer.md)
