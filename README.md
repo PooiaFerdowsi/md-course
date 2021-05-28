@@ -16,15 +16,33 @@
 
 ***Hello Italic and bold***
 
+`
+`
 
- `inline`
- 
- `
- not inline
- `
- 
- ```inline```
+`inline`
 
- ``
- not inline
- ``
+`
+inline
+`
+
+``inline``
+
+``
+inline
+``
+
+```inline```
+
+```
+inline
+```
+
+````inline````
+
+````
+inline
+````
+
+
+
+
