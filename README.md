@@ -16,33 +16,16 @@
 
 ***Hello Italic and bold***
 
-`
-`
+`inline code`
 
-`inline`
-
-`
-inline
-`
-
-``inline``
-
-``
-inline
-``
-
-```inline```
-
-```
-inline
+```bash
+if [ ! -f $name ]; then
+  echo "${name} does not exits"
+fi
 ```
 
-````inline````
-
-````
-inline
-````
-
-
+```python
+import sys
+```
 
 
